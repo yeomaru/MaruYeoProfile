@@ -45,3 +45,32 @@ main {
     background-color: white;
     padding: 24px;
 }
+
+.family-picture {
+    background-image: url('./FamilyPicture.jpg');
+}
+
+.getting-candy {
+    background-image: url('./GettingCandy.jpg');
+}
+
+.can-you-find-the-star {
+    background-image: url('./CanYouFindTheStar.jpg');
+}
+
+.project-image {
+    width: 1000px;
+    height: 735px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.title {
+    font-family: 'Twinkle Star', cursive;
+    font-size: 48px;
+}
+
+.project-title {
+    font-family: 'Twinkle Star', cursive;
+}
